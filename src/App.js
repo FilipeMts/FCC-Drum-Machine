@@ -98,7 +98,7 @@ const App = () => {
           <p className='what-sound'>Hit the drums or press the keys</p>          
         </div>      
         <div className="code">
-          <a href="/" target="_blank" rel="noopener noreferrer">code is available here</a>
+          <a href="/https://github.com/FilipeMts/FCC-Drum-Machine" target="_blank" rel="noopener noreferrer">code is available here</a>
         </div> 
         </div>
     </div>
