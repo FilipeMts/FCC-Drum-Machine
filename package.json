@@ -1,6 +1,5 @@
 {
-  "name": "03_drum_machine",
-  "homepage": "https://filipemts.github.io/FCC-Drum-Machine/",
+  "name": "03_drum_machine",  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
